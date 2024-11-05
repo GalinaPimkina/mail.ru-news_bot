@@ -69,7 +69,8 @@ async def process_cancel_command(message: Message):
             Чтобы начать играть - введите "играть".
         ''')
 
-@dp.message(F.text.lower().in_(['играть']))
+
+@dp.message(F.text.lower().in_(['играть', 'да']))
 async def process_agree_answer(message: Message):
     if not user['in_game']:
         user['in_game'] = True
@@ -84,6 +85,7 @@ async def process_agree_answer(message: Message):
         ''')
 
 
+@dp.message(F.text.lower()._in(["нет", "не хочу", "не буду"]))
 async def process_refusal_answer(message: Message):
     if not user['in_game']:
         await message.answer('''
@@ -93,3 +95,33 @@ async def process_refusal_answer(message: Message):
         await message.answer('''
             Пока вы в игре, вам доступна отправка чисел от 1 до 20.
         ''')
+
+
+@dp.message(lambda x: x.text and x.text.isdigit() and 1 <= int(x.text) <= 20)
+async def process_number_answer(message: Message):
+    if user['in_game']:
+        if int(message.text) == user['secret_number']:
+            user['in_game'] = False
+            user['total_games'] += 1
+            user['wins'] += 1
+            await message.answer(f'''
+                Вы отгадали! Я загадывал число {user['secret_number']}!\n
+                Будем играть еще?
+            ''')
+        elif int(message.text) > user["secret_number"]:
+            user['attempts'] -= 1
+            await message.answer('Moe число меньше.')
+        elif int(message.text) < user["secret_number"]:
+            user['attempts'] -= 1
+            await message.answer('Мое число больше.')
+
+        if user['attempts'] == 0:
+            user['in_game'] = False
+            user['total_games'] += 1
+            await message.answer(f'''
+                К сожалению, у Вас больше не осталось попыток. Вы проиграли.\n
+                Я закадал число {user["secret_number"]}. \n
+                Давайте сыграем еще раз?
+            ''')
+        else:
+            await message.answer('Мы еще не начинали игру. Хотите сыграть?')
