@@ -20,7 +20,7 @@ user = {
 }
 
 
-def get_random_number():
+def get_random_number() -> int:
     return random.randint(1, 20)
 
 
@@ -37,6 +37,7 @@ async def process_start_command(message: Message):
 async def process_help_command(message: Message):
     await message.answer(f'''
         Правила игры: \n
+        Для старта игры введите "играть".\n
         Я загадываю число от 1 до 20, а Вам нужно его угадать.\n
         У Вас есть {ATTEMPTS} попыток.\n\n
         Доступные команды: \n
@@ -56,7 +57,7 @@ async def process_stat_command(message: Message):
 
 
 @dp.message(Command(commands='cancel'))
-async def proccess_cancel_command(message: Message):
+async def process_cancel_command(message: Message):
     if user['in_game']:
         user['in_game'] = False
         await message.answer('''
@@ -68,3 +69,27 @@ async def proccess_cancel_command(message: Message):
             Чтобы начать играть - введите "играть".
         ''')
 
+@dp.message(F.text.lower().in_(['играть']))
+async def process_agree_answer(message: Message):
+    if not user['in_game']:
+        user['in_game'] = True
+        user['secret_number'] = get_random_number()
+        user['attempts'] = ATTEMPTS
+        await message.answer('''
+            Я загадал число от 1 до 20, попробуйте отгадать его!
+        ''')
+    else:
+        await message.answer('''
+            Пока мы играем в игру, я могу принимать только числа от 1 до 20, и команды /cancel и /stat. 
+        ''')
+
+
+async def process_refusal_answer(message: Message):
+    if not user['in_game']:
+        await message.answer('''
+            Если захотите поиграть, отправьте слово "играть" мне в чат.
+        ''')
+    else:
+        await message.answer('''
+            Пока вы в игре, вам доступна отправка чисел от 1 до 20.
+        ''')
