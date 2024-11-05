@@ -47,3 +47,24 @@ async def process_help_command(message: Message):
     ''')
 
 
+@dp.message(Command(commands='stat'))
+async def process_stat_command(message: Message):
+    await message.answer(f'''
+        Всего игры сыграно: {user['total_games']}.\n
+        Игр выиграно: {user['wins']}
+    ''')
+
+
+@dp.message(Command(commands='cancel'))
+async def proccess_cancel_command(message: Message):
+    if user['in_game']:
+        user['in_game'] = False
+        await message.answer('''
+            Вы вышли из игры. Если хотите сыграть снова - напишите об этом.
+        ''')
+    else:
+        await message.answer('''
+            Вы не в процессе игры.\n
+            Чтобы начать играть - введите "играть".
+        ''')
+
