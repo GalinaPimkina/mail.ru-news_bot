@@ -1,0 +1,135 @@
+{
+    "update": {
+        "version": 3,
+        "news": {
+            "main": {
+                "name": "main",
+                "slot": "1521642",
+                "banner": "158931093",
+                "up": 1737535534000,
+                "is_default": true,
+                "html": "<div id=\"news:item:64540996\" data-updatable=\"true\" data-value=\"64540996\" class=\"news__list__item news__list__item_main\"><div class=\"news__list__item__wrap\"><a name=\"n422918625sz\" rel=\"noopener\" href=\"https://news.mail.ru/politics/64540996/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><img src=\"https://r.mradx.net/pictures/32/2A5A18.jpg\" class=\"news__list__item__link__image\" width=\"112\" height=\"63\" alt=\"\" /></a><a name=\"n422918625sz\" rel=\"noopener\" href=\"https://news.mail.ru/politics/64540996/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u041c\u043e\u0441\u043a\u0432\u0430 \u0438 \u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u043f\u043e\u0434\u043f\u0438\u0448\u0443\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u0442\u0432\u0430</span></a><a name=\"n422918625sz\" rel=\"noopener\" href=\"https://news.mail.ru/politics/64540996/?frommail=1\" class=\"news__list__item__description\" target=\"_blank\">\u041c\u043e\u0441\u043a\u0432\u0430 \u0438 \u0422\u0430\u0448\u043a\u0435\u043d\u0442 \u043f\u043e\u0434\u043f\u0438\u0448\u0443\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443 \u0432\u043e\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u0442\u0432\u0430, \u0437\u0430\u044f\u0432\u0438\u043b \u043c\u0438\u043d\u0438\u0441\u0442\u0440 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0410\u043d\u0434\u0440\u0435\u0439 \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432 \u043d\u0430 \u0432\u0441\u0442\u0440\u0435\u0447\u0435 \u0441 \u0443\u0437\u0431\u0435\u043a\u0441\u043a\u0438\u043c \u043a\u043e\u043b\u043b\u0435\u0433\u043e\u0439 \u0428\u0443\u0445\u0440\u0430\u0442\u043e\u043c \u0425\u0430\u043b\u043c\u0443\u0445\u0430\u043c\u0435\u0434\u043e\u0432\u044b\u043c.</a></div></div><div id=\"news:item:64541321\" data-updatable=\"true\" data-value=\"64541321\" class=\"news__list__item news__list__item_simple\"><a name=\"n422918837sz\" rel=\"noopener\" href=\"https://news.mail.ru/politics/64541321/?frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0422\u0440\u0430\u043c\u043f \u043f\u043e\u0440\u0443\u0447\u0438\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442 \u0437\u0430\u00a0100 \u0434\u043d\u0435\u0439</span></a></div><div id=\"news:item:64540625\" data-updatable=\"true\" data-value=\"64540625\" class=\"news__list__item news__list__item_simple\"><a name=\"n422913373sz\" rel=\"noopener\" href=\"https://news.mail.ru/politics/64540625/?frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430: \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0421\u0428\u0410 \u0441\u00a0\u043f\u0440\u0438\u0445\u043e\u0434\u043e\u043c \u0422\u0440\u0430\u043c\u043f\u0430 \u00ab\u0443\u043b\u0435\u0442\u0435\u043b\u0438 \u0432\u00a0\u043a\u043e\u0440\u0437\u0438\u043d\u0443\u00bb</span></a></div><div id=\"news:item:64531631\" data-updatable=\"true\" data-value=\"64531631\" class=\"news__list__item news__list__item_simple\"><a name=\"n422917431sz\" rel=\"noopener\" href=\"https://news.mail.ru/politics/64531631/?frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u041f\u043e\u043b\u0438\u0442\u043e\u043b\u043e\u0433 \u043d\u0430\u0437\u0432\u0430\u043b \u0441\u0442\u0440\u0430\u043d\u044b, \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0435 \u0434\u043b\u044f\u00a0\u0432\u0441\u0442\u0440\u0435\u0447\u0438 \u041f\u0443\u0442\u0438\u043d\u0430 \u0438\u00a0\u0422\u0440\u0430\u043c\u043f\u0430</span></a></div><div id=\"news:item:64540615\" data-updatable=\"true\" data-value=\"64540615\" class=\"news__list__item news__list__item_simple\"><a name=\"n422915239sz\" rel=\"noopener\" href=\"https://vfokuse.mail.ru/article/v-gosdume-prizvali-sdelat-besplatnym-obuchenie-po-ryadu-specialnostey-64540615/?fromnews=1&frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0412\u00a0\u0413\u0414 \u043f\u0440\u0438\u0437\u0432\u0430\u043b\u0438 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u043f\u043e\u00a0\u0440\u044f\u0434\u0443 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439</span></a></div><div id=\"news:item:64541053\" data-updatable=\"true\" data-value=\"64541053\" class=\"news__list__item news__list__item_simple news__list__item_hiddable_prepreprelast\"><a name=\"n422914582sz\" rel=\"noopener\" href=\"https://news.mail.ru/svo/64541053/?frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0414\u0440\u043e\u043d\u044b-\u043a\u0430\u043c\u0438\u043a\u0430\u0434\u0437\u0435 \u0441\u00a0\u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u043e\u043c \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0438 \u0432\u00a0\u0437\u043e\u043d\u0443 \u0421\u0412\u041e</span></a></div><div id=\"news:item:64537015\" data-updatable=\"true\" data-value=\"64537015\" class=\"news__list__item news__list__item_simple news__list__item_hiddable_preprelast\"><a name=\"n422913374sz\" rel=\"noopener\" href=\"https://vfokuse.mail.ru/article/bolshinstvom-golosov-kak-valentina-talyzina-proslavilas-ozvuchivaniem-roley-64537015/?fromnews=1&frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u0435 \u0422\u0430\u043b\u044b\u0437\u0438\u043d\u043e\u0439 \u2014 90. \u041a\u0442\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u043b \u0438 \u043f\u0435\u043b \u0435\u0435 \u0433\u043e\u043b\u043e\u0441\u043e\u043c \u0432 \u043a\u0438\u043d\u043e</span></a></div><div id=\"news:item:64533377\" data-updatable=\"true\" data-value=\"64533377\" class=\"news__list__item news__list__item_simple news__list__item_hiddable_prelast\"><a name=\"n422916259sz\" rel=\"noopener\" href=\"https://finance.mail.ru/2025-01-22/reuters-chto-izvestno-o-planiruemom-rossiey-stroitelstve-truboprovoda-v-iran-64533377/?fromnews=1&frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">Reuters \u0440\u0430\u0441\u043a\u0440\u044b\u043b \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0433\u0430\u0437\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u0430 \u0420\u0424 \u0432 \u0418\u0440\u0430\u043d</span></a></div><div id=\"news:item:64539237\" data-updatable=\"true\" data-value=\"64539237\" class=\"news__list__item news__list__item_simple news__list__item_hiddable\"><a name=\"n422915670sz\" rel=\"noopener\" href=\"https://finance.mail.ru/2025-01-22/rosstat-nazval-samye-podorozhavshie-produkty-za-2024-god-64539237/?fromnews=1&frommail=1\" class=\"news__list__item__link news__list__item__link_simple\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u041d\u0430\u0437\u0432\u0430\u043d\u044b \u0441\u0430\u043c\u044b\u0435 \u043f\u043e\u0434\u043e\u0440\u043e\u0436\u0430\u0432\u0448\u0438\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u0437\u0430\u00a02024 \u0433\u043e\u0434</span></a></div>",
+                "extend": "<div class=\"news__list__item\" data-d=\"158930893\"><a class=\"news__list__item__info\" href=\"https://sportmail.ru/\" target=\"_blank\" name=\"clb571759\">\u0421\u043f\u043e\u0440\u0442</a><a href=\"https://sportmail.ru/news/football-rus-premier/64538935/?frommail=10\" name=\"n422918615\" target=\"_blank\" class=\"news__list__item__link\"><span class=\"news__list__item__link__text\">\u0427\u0435\u0440\u0447\u0435\u0441\u043e\u0432\u0430 \u0437\u043e\u0432\u0443\u0442 \u0432 \u0418\u0440\u0430\u043d, \u0430 \u0441\u043a\u0430\u043d\u0434\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0440\u0430\u043d\u0446\u0443\u0437 \u043d\u0435 \u0445\u043e\u0447\u0435\u0442 \u0432 \u0420\u043e\u0441\u0441\u0438\u044e</span></a></div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<div class=\"news__list__item\" data-d=\"158930999\"><a class=\"news__list__item__info\" href=\"https://r.mail.ru/n408796481?sz=&amp;rnd=3684605795\" rel=\"noopener\" target=\"_blank\">\u0410\u0432\u0442\u043e</a><a href=\"https://r.mail.ru/n422913367?sz=&amp;rnd=3684605795\" rel=\"noopener\" name=\"n422913368\" target=\"_blank\" class=\"news__list__item__link\"><span class=\"news__list__item__link__text\">\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d \u043e\u0441\u043e\u0431\u044b\u0439 Suzuki Jimny \u0434\u043b\u044f \u0431\u0435\u0437\u0434\u043e\u0440\u043e\u0436\u044c\u044f</span></a></div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+                "extspace": {
+                    "1531262": 1,
+                    "1531263": 1
+                }
+            },
+            "regional": {
+                "name": "regional",
+                "slot": "3072",
+                "banner": "815523",
+                "up": 1737534677000,
+                "is_default": false,
+                "html": "\r\n\r\n\r\n\r\n<div id=\"news:item:64540029\" data-updatable=\"true\" data-value=\"64540029\" class=\"news__list__item  news__list__item_main\"><div class=\"news__list__item__wrap\"><a name=\"n422917151sz\" rel=\"noopener\" href=\"https://pogoda.mail.ru/news/64540029/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><img src=\"https://r.mradx.net/pictures/EB/5289BF.jpg\" class=\"news__list__item__link__image\" width=\"112\" height=\"63\" alt=\"\" /></a><a name=\"n422917151sz\" rel=\"noopener\" href=\"https://pogoda.mail.ru/news/64540029/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u041c\u043e\u0441\u043a\u0432\u0438\u0447\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043f\u043b\u044e\u0441\u043e\u0432\u0443\u044e \u0442\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0443 \u043a\u00a0\u0432\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u044e</span></a><a name=\"n422917151sz\" rel=\"noopener\" href=\"https://pogoda.mail.ru/news/64540029/?frommail=1\" class=\"news__list__item__description\" target=\"_blank\">\u0414\u043e\u00a0\u043a\u043e\u043d\u0446\u0430 \u044f\u043d\u0432\u0430\u0440\u044f \u043d\u0430\u00a0\u0431\u043e\u043b\u044c\u0448\u0435\u0439 \u0447\u0430\u0441\u0442\u0438 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044f \u043e\u0447\u0435\u043d\u044c \u0442\u0435\u043f\u043b\u0430\u044f \u043f\u043e\u0433\u043e\u0434\u0430</a></div></div><div id=\"news:item:64542420\" data-updatable=\"true\" data-value=\"64542420\" class=\"news__list__item\"><span class=\"news__list__item__info\">11:18</span><a name=\"n422917232sz\" rel=\"noopener\" href=\"https://vfokuse.mail.ru/article/ot-chaynyh-ceremoniy-do-svetovyh-shou-v-moskve-otprazdnuyut-kitayskiy-novyy-god-64542420/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u041c\u043e\u0441\u043a\u0432\u0430 \u0432\u043d\u043e\u0432\u044c \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u043e \u043e\u0442\u043c\u0435\u0442\u0438\u0442 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434</span></a></div><div id=\"news:item:64542524\" data-updatable=\"true\" data-value=\"64542524\" class=\"news__list__item\"><span class=\"news__list__item__info\">11:22</span><a name=\"n422917396sz\" rel=\"noopener\" href=\"https://news.mail.ru/incident/64542524/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0410\u0432\u0430\u0440\u0438\u044f \u043d\u0430\u00a0\u0442\u0435\u043f\u043b\u043e\u0441\u0435\u0442\u0438 \u043e\u0441\u0442\u0430\u0432\u0438\u043b\u0430 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0434\u043e\u043c\u043e\u0432 \u0420\u0443\u0437\u044b \u0431\u0435\u0437\u00a0\u043e\u0442\u043e\u043f\u043b\u0435\u043d\u0438\u044f</span></a></div><div id=\"news:item:64540378\" data-updatable=\"true\" data-value=\"64540378\" class=\"news__list__item\"><span class=\"news__list__item__info\">10:57</span><a name=\"n422916056sz\" rel=\"noopener\" href=\"https://news.mail.ru/society/64540378/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0415\u0449\u0435 \u0447\u0435\u0442\u044b\u0440\u0435 \u044d\u043a\u0441\u043f\u0440\u0435\u0441\u0441-\u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0430 \u043f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u0432\u00a0\u0422\u0438\u041d\u0410\u041e</span></a></div><div id=\"news:item:64540929\" data-updatable=\"true\" data-value=\"64540929\" class=\"news__list__item news__list__item_hiddable_prepreprelast\"><span class=\"news__list__item__info\">11:15</span><a name=\"n422917233sz\" rel=\"noopener\" href=\"https://finance.mail.ru/2025-01-22/kolichestvo-ipotechnyh-sdelok-v-moskve-v-2024-godu-sokratilos-na-11-64540929/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0427\u0438\u0441\u043b\u043e \u0438\u043f\u043e\u0442\u0435\u0447\u043d\u044b\u0445 \u0441\u0434\u0435\u043b\u043e\u043a \u0432\u00a0\u041c\u043e\u0441\u043a\u0432\u0435 \u0432\u00a02024 \u0433\u043e\u0434\u0443 \u0441\u043e\u043a\u0440\u0430\u0442\u0438\u043b\u043e\u0441\u044c \u043d\u0430\u00a011%</span></a></div><div id=\"news:item:64540714\" data-updatable=\"true\" data-value=\"64540714\" class=\"news__list__item news__list__item_hiddable_preprelast\"><span class=\"news__list__item__info\">09:35</span><a name=\"n422911208sz\" rel=\"noopener\" href=\"https://news.mail.ru/incident/64540714/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a \u0431\u0430\u043d\u043a\u0430 \u0432\u00a0\u041c\u043e\u0441\u043a\u0432\u0435 \u043f\u043e\u0445\u0438\u0442\u0438\u043b 180\u00a0\u043c\u043b\u043d \u0440\u0443\u0431. \u0438\u0437\u00a0\u044f\u0447\u0435\u0439\u043a\u0438 \u043a\u043b\u0438\u0435\u043d\u0442\u0430</span></a></div><div id=\"news:item:64540381\" data-updatable=\"true\" data-value=\"64540381\" class=\"news__list__item news__list__item_hiddable_prelast\"><span class=\"news__list__item__info\">11:05</span><a name=\"n422916706sz\" rel=\"noopener\" href=\"https://news.mail.ru/society/64540381/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u042d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u0438 \u043f\u043e\u00a0\u0432\u0443\u0437\u0430\u043c \u043f\u0440\u043e\u0432\u0435\u0434\u0443\u0442 \u0432\u00a0\u0440\u0430\u043c\u043a\u0430\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u00ab\u0417\u0438\u043c\u0430 \u0432\u00a0\u041c\u043e\u0441\u043a\u0432\u0435\u00bb</span></a></div><div id=\"news:item:64541306\" data-updatable=\"true\" data-value=\"64541306\" class=\"news__list__item news__list__item_hiddable_last news__list__item_hiddable\"><span class=\"news__list__item__info\">11:03</span><a name=\"n422916382sz\" rel=\"noopener\" href=\"https://pogoda.mail.ru/news/64541306/?frommail=1\" class=\"news__list__item__link\" target=\"_blank\"><span class=\"news__list__item__link__text\">\u0418\u0437-\u0437\u0430\u00a0\u043c\u043e\u0440\u043e\u0437\u0430 \u0432\u00a0\u041c\u043e\u0441\u043a\u0432\u0435 \u043c\u043e\u0433\u0443\u0442 \u0438\u0441\u0447\u0435\u0437\u043d\u0443\u0442\u044c \u043f\u043e\u0434\u0441\u043d\u0435\u0436\u043d\u0438\u043a\u0438</span></a></div>",
+                "extend": "<div class=\"news__list__item\" data-d=\"177242113\"><a href=\"https://vfokuse.mail.ru/article/nazvana-data-sleduyuschey-korotkoy-rabochey-nedeli-v-rossii-64410224/\" name=\"n422655125\" target=\"_blank\" class=\"news__list__item__link\"><span class=\"news__list__item__link__text\">\u041d\u0430\u0437\u0432\u0430\u043d\u0430 \u0434\u0430\u0442\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0439 \u0440\u0430\u0431\u043e\u0447\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0438 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438</span></a></div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<div class=\"news__list__item\" data-d=\"177242118\"><a href=\"https://sportmail.ru/news/fitness/64465806/\" name=\"n422655332\" target=\"_blank\" class=\"news__list__item__link\"><span class=\"news__list__item__link__text\">\u041d\u0430\u0437\u0432\u0430\u043d\u0430 \u043b\u0443\u0447\u0448\u0430\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430 \u0434\u043b\u044f \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u044f \u043f\u043e\u0445\u0443\u0434\u0435\u043d\u0438\u044f</span></a></div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<div class=\"news__list__item\" data-d=\"164403552\"><a href=\"https://vfokuse.mail.ru/article/psihotronnoe-oruzhie-kak-izuchalas-telepatiya-61803428/\" name=\"n413399398\" target=\"_blank\" class=\"news__list__item__link\"><span class=\"news__list__item__link__text\">\u041a\u0430\u043a \u0438\u0437\u0443\u0447\u0430\u043b\u0430\u0441\u044c \u0442\u0435\u043b\u0435\u043f\u0430\u0442\u0438\u044f: \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0444\u0430\u043a\u0442\u044b</span></a></div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+                "extspace": {
+                    "1548": 1,
+                    "5070": 1,
+                    "5820": 1
+                }
+            }
+        },
+        "currency": {
+            "slot": "2827",
+            "is_oil": true,
+            "banner": "644327",
+            "title": "\u041a\u0443\u0440\u0441&nbsp;\u0426\u0411&nbsp;c&nbsp;22.01",
+            "items": {
+                "usd": {
+                    "title": "\u041a\u0443\u0440\u0441 \u0441 22.01",
+                    "link": "https://news.mail.ru/currency/charcode/USD/",
+                    "value": "99.93",
+                    "rate": "99.93",
+                    "sign": "minus",
+                    "increment": "2.03"
+                },
+                "eur": {
+                    "title": "\u041a\u0443\u0440\u0441 \u0441 22.01",
+                    "link": "https://news.mail.ru/currency/charcode/EUR/",
+                    "value": "103.29",
+                    "rate": "103.29",
+                    "sign": "minus",
+                    "increment": "1.76"
+                }
+            },
+            "link": "https://news.mail.ru/currency.html",
+            "counter": "644327",
+            "is_rus": true,
+            "qt": 2,
+            "up": 1737535700000
+        },
+        "oil": {
+            "slot": "6559",
+            "banner": "12403154",
+            "title": "\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u043d\u0435\u0444\u0442\u0438 \u043c\u0430\u0440\u043a\u0438 Brent \u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0442\u043e\u0440\u0433\u043e\u0432 \u0441\u0440\u043e\u0447\u043d\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u041c\u0411",
+            "link": "https://news.mail.ru/currency/lme/OIL2/",
+            "counter": "clb12403154",
+            "qt": 1,
+            "items": {
+                "brent": {
+                    "value": "78.97",
+                    "sign": "minus",
+                    "increment": "0.44"
+                }
+            },
+            "up": 1737535320000
+        },
+        "weather": {
+            "slot": "3031",
+            "banner": "1265489",
+            "link": "https://pogoda.mail.ru/prognoz/moskva/",
+            "now_description": "\u043f\u0430\u0441\u043c\u0443\u0440\u043d\u043e",
+            "items": {
+                "now_pict": {
+                    "value": "03"
+                },
+                "now_temp": {
+                    "value": "-6"
+                },
+                "near": {
+                    "value": "-33",
+                    "temp": "-3",
+                    "period": "3"
+                },
+                "tomorrow_temp": {
+                    "value": "-2"
+                }
+            },
+            "version": 2
+        }
+    },
+    "mailbox": {
+        "HasAuth": false,
+        "ActiveEmail": "",
+        "TotalUnread": 0,
+        "PhotoBox": "",
+        "User": false,
+        "Domains": [
+            "mail.ru",
+            "inbox.ru",
+            "list.ru",
+            "bk.ru",
+            "xmail.ru",
+            "internet.ru"
+        ],
+        "ExtDomains": [
+            "yandex.ru",
+            "rambler.ru",
+            "gmail.com",
+            "yahoo.com",
+            "hotmail.com",
+            "outlook.com"
+        ],
+        "UserDomain": null,
+        "UserDomainExt": null,
+        "firstName": "",
+        "lastName": "",
+        "fullName": ""
+    },
+    "my": {
+        "HasMy": false,
+        "MyMessages_cnt": 0,
+        "MyFriendships_cnt": 0
+    }
+}
